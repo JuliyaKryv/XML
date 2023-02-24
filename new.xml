@@ -1,0 +1,11 @@
+<?XML version=«1.0»?>
+<person>
+<FirstName> Yuliya </FirstName>
+<SecondName> Kryvitska </SecondName>
+<Age> 32 </Age>
+<Work_Experience> 3 years </Work_Experience>
+<Characteristics> single-minded, responsible, highly organized </Characteristics>
+<Hobby> traveling, painting, photography, chess, solving logical tasks </Hobby> 
+<Having_a_pet> true </Having_a_pet>
+<Pet_nickname> Like </Pet_nickname>
+</person>
