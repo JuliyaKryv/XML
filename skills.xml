@@ -1,0 +1,30 @@
+<?XML version="1.0"?>
+<knowledge>
+<Title> Information about skills </Title>
+<Skill_1> The basic theory of testing </Skill_1>
+<Skill_2> Client-server architecture </Skill_2>
+<Skill_3> HTTP Methods of requests to the server / HTTP server response codes </Skill_3>
+<Skill_4> Structures of HTTP requests and responses </Skill_4>
+<Skill_5> JSON, XML. Their structure </Skill_5>
+<Skill_6> API testing through Postman (JS, API autotests) </Skill_6>
+<Skill_7> Removing and reading logs from an external server </Skill_7>
+<Skill_8> Sniffing HTTP web traffic through Charles and Fiddler </Skill_8>
+<Skill_9> Dev Tools of web browsers (Google Chrome, FireFox) </Skill_9>
+<Skill_10> VPN </Skill_10>
+<Skill_11> Mobile testing </Skill_11>
+<Skill_12> Feature of iOS, Android, guidelines </Skill_12>
+<Skill_13> Compilation of iOS applications on XCode </Skill_13> 
+<Skill_14> Compilation of Android applications on Android Studio </Skill_14>
+<Skill_15> ADB (Android device management) </Skill_15>
+<Skill_16> Proxy and VPN settings on iOS and Android </Skill_16>
+<Skill_17> Interception (sniffing) of mobile traffic through Charles and Fiddler on iOS and Android </Skill_17>
+<Skill_18> Linux command line (terminal) (copying, creating, viewing, and moving files on servers without a graphical interface) </Skill_18>
+<Skill_19> Basics of bash-scripting, automation of routine tasks on the server </Skill_19>
+<Skill_20> Access to remote servers </Skill_20>
+<Skill_21> Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join) </Skill_21>
+<Skill_22> Postgres database (installation, configuration, and use) </Skill_22>
+<Skill_23> Non-relational database Redis (installation, configuration, and use) </Skill_23>
+<Skill_24> Load testing in Jmeter </Skill_24>
+<Skill_25> Scrum development methodology </Skill_25>
+<Skill_26> Python. (Learning the basics. Creating a client-server program) </Skill_26>
+</knowledge>
